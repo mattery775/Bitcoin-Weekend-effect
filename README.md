@@ -197,8 +197,6 @@ The year-by-year analysis shows that average weekend returns were higher in 8 ye
 | `bitcoin_weekend_effect.cpp` | C++ source code for data import, return calculations, metrics, the overall comparison and the year-by-year analysis |
 | `data/btc_v_d.csv` | Bitcoin price data used in the analysis |
 | `README.md` | Description of the research question, data, methodology and results |
-| `.gitignore` | Files and local build artefacts that Git should ignore |
-| `results/` | Intended directory for results; the current program version does not write result files |
 
 ---
 
