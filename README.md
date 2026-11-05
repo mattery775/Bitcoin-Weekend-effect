@@ -159,28 +159,28 @@ weekday returns in percentage points. Positive values indicate higher
 average returns on weekends; negative values indicate higher average
 returns on weekdays.
 
-![Bitcoin Weekend Effect (2010–2026)](assets/bitcoin-weekend-effect.png)
+![Bitcoin Weekend Effect](bitcoin-weekend-effect.png)
 
 #### Average Bitcoin Returns: Weekdays vs. Weekends
 
 The chart compares the average daily Bitcoin returns for weekdays and
 weekends in each calendar year.
 
-![Average Bitcoin Returns: Weekdays vs. Weekends](assets/average-bitcoin-returns.png)
+![Average Bitcoin Returns](average-bitcoin-returns.png)
 
 #### Bitcoin Volatility: Weekdays vs. Weekends
 
 The chart compares daily volatility for weekdays and weekends across the
 individual calendar years.
 
-![Bitcoin Volatility: Weekdays vs. Weekends](assets/bitcoin-volatility.png)
+![Bitcoin Volatility](bitcoin-volatility.png)
 
 #### Bitcoin Sharpe Ratio: Weekdays vs. Weekends
 
 The chart compares the annualised Sharpe ratios for weekdays and weekends
 in each calendar year.
 
-![Bitcoin Sharpe Ratio: Weekdays vs. Weekends](assets/bitcoin-sharpe-ratio.png)
+![Bitcoin Sharpe Ratio](bitcoin-sharpe-ratio.png)
 
 Interpretation of the annual results:
 
