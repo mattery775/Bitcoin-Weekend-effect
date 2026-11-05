@@ -149,7 +149,7 @@ July 2010 and ends on 25 October 2026.
 ### 5.1 Visual Analysis
 
 The following charts visualise the year-by-year comparison between weekdays
-(Monday to Friday) and weekends (Saturday and Sunday). They complement the
+(Monday to Friday) in blue and weekends (Saturday and Sunday) in orange. They complement the
 annual results table above.
 
 #### Bitcoin Weekend Effect (2010–2026)
