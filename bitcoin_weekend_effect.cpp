@@ -465,14 +465,6 @@ int main() {
 
     ifstream testFile(filename);
 
-    if (!testFile.is_open()) {
-
-        filename = "data/btc_v_d.csv";
-    }
-    else {
-
-        testFile.close();
-    }
 
     // Bitcoin-Daten laden
     vector<BitcoinDay> data =
