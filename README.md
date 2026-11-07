@@ -321,8 +321,6 @@ statistical significance test or a forecasting model. It therefore makes
 neither a statistically substantiated claim about an effect nor a
 prediction of future returns.
 
-To save this file, copy the entire text into a text editor and save it
-as `README.md` in the root directory of your project.
 
 ## 11. Sources
 
