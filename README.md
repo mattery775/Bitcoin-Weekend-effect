@@ -61,15 +61,17 @@ calendar year.
 
 ## 4. Overall Results
 
-  Metric                             Weekdays (Mon--Fri)   Weekends (Sat--Sun)
-  -------------------------------- --------------------- ---------------------
-  Number of returns                                4,245                 1,699
-  Average daily return                           0.4328%               0.3173%
-  Cumulative return within group         6,013,921.4499%           2,595.6788%
-  Daily volatility                               7.2176%               5.4707%
-  Annualised volatility                        116.5406%              55.8675%
-  Annualised Sharpe ratio                         0.9682                0.5924
-  Positive days                                 51.8728%              52.9723%
+
+| Metric | Weekdays (Mon–Fri) | Weekends (Sat–Sun) |
+|:---|---:|---:|
+| Number of returns | 4,245 | 1,699 |
+| Average daily return | 0.4328% | 0.3173% |
+| Cumulative return within group | 6,013,921.4499% | 2,595.6788% |
+| Daily volatility | 7.2176% | 5.4707% |
+| Annualised volatility | 116.5406% | 55.8675% |
+| Annualised Sharpe ratio | **0.9682** | **0.5924** |
+| Positive days | 51.8728% | 52.9723% |
+
 
 Difference in average daily returns (weekends minus weekdays): −0.1155
 percentage points.
@@ -262,28 +264,16 @@ significance.
 
 ## 8. Project Files
 
-  -----------------------------------------------------------------------
-  File / Folder                       Description
-  ----------------------------------- -----------------------------------
-  `bitcoin_weekend_effect.cpp`        C++ source code for data import,
-                                      return calculations, metrics, the
-                                      overall comparison and the
-                                      year-by-year analysis
 
-  `data/btc_v_d.csv`                  Bitcoin price data used in the
-                                      analysis
+## Project Structure
 
-  `README.md`                         Description of the research
-                                      question, data, methodology and
-                                      results
+| File / Folder | Description |
+|:---|:---|
+| `bitcoin_weekend_effect.cpp` | C++ source code for data import, return calculations, statistical metrics, weekday/weekend comparison and year-by-year analysis. |
+| `data/btc_v_d.csv` | Historical Bitcoin price data used for the analysis. |
+| `results/` | Intended directory for analysis results. Currently, the program does not generate output files. |
+| `README.md` | Project overview, research question, dataset, methodology and findings. |
 
-  `.gitignore`                        Files and local build artefacts
-                                      that Git should ignore
-
-  `results/`                          Intended directory for results; the
-                                      current program version does not
-                                      write result files
-  -----------------------------------------------------------------------
 
 ## 9. Technical Requirements and How to Run
 
